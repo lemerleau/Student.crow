@@ -29,8 +29,11 @@ If you have any questions about this class's content or problems running this co
 
 ## References
 <a id="1" href="https://www.w3schools.com/sql/sql_create_db.asp">[2] SQL Database</a> 
+
 <a id ="2" href="https://www.w3schools.com/cpp/cpp_oop.asp">[2] C++ OOP </a>
+
 <a id ="3" href="https://crowcpp.org/1.2.1/getting_started/your_first_application/">[2] Your first Crow APP</a>
+
 <a id = "4" href="https://dev.mysql.com/doc/connector-cpp/1.1/en/connector-cpp-examples-complete-example-1.html"> MySQL and C++</a>
 
 
