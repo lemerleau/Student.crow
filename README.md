@@ -1,4 +1,4 @@
-#  Student App with Crow C++ 
+#  Student App with Crow C++  and SQLite
 
 This is a simple Crow app for registering and retrieving students of Lancaster university. 
 
@@ -22,7 +22,6 @@ To be able to run this app, the following sofwares are required:
 $ cmake 
 $ make 
 $ ./student.crow
-
 ``` 
 ## Contact
 If you have any questions about this class's content or problems running this code, please contact me at [Dr. Nono Saha](mailto:cyrillecardinale@gmail.com.?subject=[GitHub]%20CART%20Lecture%20Material) 
